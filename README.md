@@ -10,3 +10,4 @@ Steps to Create an ecommerce website:
 8. implement functionality in service file to interact with json-server
 9. generate product list component: ng generate component product-list
 10. implement functionality in ts file to fetch data
+11. add html code in html file
